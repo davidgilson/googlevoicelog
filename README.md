@@ -28,7 +28,7 @@ The CSV file will have the following column headings:
     Date
     Time
     Phone Number
-    Type of call (Received, Outgoing, Missed, Voicemail)
+    Type of call (Received, Placed, Missed, Voicemail)
     Duration of call
 
 
